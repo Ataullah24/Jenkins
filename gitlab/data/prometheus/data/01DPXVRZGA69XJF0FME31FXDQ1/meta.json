@@ -1,0 +1,17 @@
+{
+	"ulid": "01DPXVRZGA69XJF0FME31FXDQ1",
+	"minTime": 1570801954692,
+	"maxTime": 1570802400000,
+	"stats": {
+		"numSamples": 243172,
+		"numSeries": 10515,
+		"numChunks": 10515
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01DPXVRZGA69XJF0FME31FXDQ1"
+		]
+	},
+	"version": 1
+}

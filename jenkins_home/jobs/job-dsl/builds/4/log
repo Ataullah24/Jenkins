@@ -1,0 +1,33 @@
+Started by user [8mha:////4MaPf5cCxbT8+6qKxtHRGC51z9G5AqB6zM4m79pZxiBtAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9rNS87My8YgDGtiJjwgAAAA==[0mjenkins
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/job-dsl
+using credential GIT-LAB-Tahir
+Cloning the remote Git repository
+Cloning repository http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git
+ > git init /var/jenkins_home/workspace/job-dsl # timeout=10
+Fetching upstream changes from http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git # timeout=10
+Fetching upstream changes from http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- http://jenkins-data2_git_1:80/jenkins/dsl-jobs.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 201ffaef059429fae035b8ede64b8873d8430085 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 201ffaef059429fae035b8ede64b8873d8430085
+Commit message: "Added the hooks testing job"
+First time build. Skipping changelog.
+Processing DSL script jobs
+Added items:
+    GeneratedJob{name='Hooks_Testing'}
+Existing items:
+    GeneratedJob{name='ansible-user-db-dsl'}
+    GeneratedJob{name='maven_dsl'}
+Unreferenced items:
+    GeneratedJob{name='job_dsl_created'}
+Finished: SUCCESS

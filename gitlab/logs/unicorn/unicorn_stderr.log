@@ -1,0 +1,20 @@
+I, [2019-10-11T13:51:49.506384 #739]  INFO -- : Refreshing Gem list
+I, [2019-10-11T13:52:14.393911 #739]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2019-10-11T13:52:14.394060 #739]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2019-10-11T13:52:14.517135 #739]  INFO -- : master process ready
+I, [2019-10-11T13:52:14.722841 #845]  INFO -- : worker=0 ready
+I, [2019-10-11T13:52:14.735551 #847]  INFO -- : worker=2 ready
+I, [2019-10-11T13:52:14.740233 #846]  INFO -- : worker=1 ready
+I, [2019-10-11T13:52:14.762571 #848]  INFO -- : worker=3 ready
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
+unknown OID 194: failed to recognize type of 'relpartbound'. It will be treated as String.
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
+unknown OID 194: failed to recognize type of 'relpartbound'. It will be treated as String.
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
+unknown OID 194: failed to recognize type of 'relpartbound'. It will be treated as String.
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
+unknown OID 194: failed to recognize type of 'relpartbound'. It will be treated as String.

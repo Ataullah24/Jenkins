@@ -1,0 +1,2 @@
+2019-10-11_13:50:57.75436 LOG:  listening on Unix socket "/var/opt/gitlab/postgresql/.s.PGSQL.5432"
+2019-10-11_13:50:58.78476 LOG:  database system is ready to accept connections

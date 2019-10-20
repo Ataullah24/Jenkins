@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-10-11 00:10:16.746 UTC</timestamp>
+  <md5sum>8198b564d0100568e94095a36a4f20fe</md5sum>
+  <fileName>Credential id=GIT_USER name=ataullah/******</fileName>
+  <usages>
+    <entry>
+      <string>maven-job</string>
+      <ranges>14-15</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

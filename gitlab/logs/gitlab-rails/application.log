@@ -1,0 +1,13 @@
+# Logfile created on 2019-10-11 13:51:32 +0000 by logger.rb/66358
+October 11, 2019 13:51: User "Administrator" (admin@example.com) was created
+October 11, 2019 13:55: Successful Login: username=root ip=192.168.0.105 method=standard admin=true
+October 11, 2019 14:01: Group "jenkins1" was created
+October 11, 2019 14:02: jenkins1 created a new project "jenkins1 / maven1"
+October 11, 2019 14:05: User "ataullahq" (ataullah.quadri@gmail.com) was created
+October 11, 2019 14:28: User "Ghost User" (ghost@example.com) was created
+October 11, 2019 14:28: User "ataullahq" (ataullah.quadri@gmail.com)  was removed
+October 11, 2019 14:28: User "chintu" (ataullah.quadri@gmail.com) was created
+October 11, 2019 14:31: User "chintu" (ataullah.quadri@gmail.com)  was removed
+October 11, 2019 15:41: User "chintu" (ataullah.quadri@gmail.com) was created
+October 11, 2019 15:44: User "chintu" (ataullah.quadri@gmail.com)  was removed
+October 11, 2019 15:45: User "tahir" (ataullah.quadri@gmail.com) was created

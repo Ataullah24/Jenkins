@@ -1,0 +1,14 @@
+Started by user [8mha:////4BRNSIyZSVXyji9EdQssvdJ2FVIFNRPeiQ4YhXEUpN6LAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mAtaullah
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/remote-task
+[SSH] script:
+
+NAME="Ataullah"
+echo "hai i am $NAME, current date and time is: $(date)" > /tmp/remote-info
+
+[SSH] executing...
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS
